@@ -52,8 +52,6 @@ flutter run
 2. Backend API’yi Çalıştırma
 Python 3.9+ ve gerekli kütüphaneler yüklü olmalı.
 
-bash
-Kodu kopyala
 # Sanal ortam oluşturun (opsiyonel)
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
