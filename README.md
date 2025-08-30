@@ -100,15 +100,15 @@ Bir Pull Request açın
 Bu proje MIT Lisansı altında yayınlanmıştır.
 Daha fazla bilgi için LICENSE dosyasına göz atın.
 
-👨‍💻 Geliştirici
-Bilikenes
+👨‍💻 Geliştiriciler
+Enes BİLİK on Github: @bilikenes
+Buse ŞENGÜL on Github: @buseSengul
+Gülsüm BASIK on Github: @Gulsumbsk
+Merve AKGÜL on Github: @merveeakgul
+Meryem Ezgi Ekin on Github: @CrissMoris
 
-GitHub: @bilikenes
 
 Proje: TouriTech
-
-yaml
-Kodu kopyala
 
 ---
 
