@@ -16,21 +16,21 @@ Proje, Flutter ile geliştirilmiş kullanıcı dostu bir arayüz ve **Python tab
 
 ## 📂 Proje Yapısı
 
+```text
 TouriTech/
-├── android/ # Android spesifik dosyalar
-├── ios/ # iOS spesifik dosyalar
-├── lib/ # Flutter uygulama kaynak kodları (Dart)
-├── web/ # Web build dosyaları
-├── windows/ # Windows build dosyaları
-├── linux/ # Linux build dosyaları
-├── macos/ # macOS build dosyaları
-├── ai_model.py # Yapay zeka modeli scripti
-├── api_server.py # Backend API sunucusu
-├── pubspec.yaml # Flutter bağımlılıkları
-└── README.md # Bu dosya
+├── android/        # Android spesifik dosyalar
+├── ios/            # iOS spesifik dosyalar
+├── lib/            # Flutter uygulama kaynak kodları (Dart)
+├── web/            # Web build dosyaları
+├── windows/        # Windows build dosyaları
+├── linux/          # Linux build dosyaları
+├── macos/          # macOS build dosyaları
+├── ai_model.py     # Yapay zeka modeli scripti
+├── api_server.py   # Backend API sunucusu
+├── pubspec.yaml    # Flutter bağımlılıkları
+└── README.md       # Bu dosya
+```
 
-yaml
-Kodu kopyala
 
 ---
 
@@ -115,7 +115,4 @@ Kodu kopyala
 💡 Bu README şunları sağlıyor:  
 - Modern ve okunaklı bir yapı (özellikler, kurulum, teknolojiler, katkı rehberi vb.)  
 - Potansiyel geliştiricilere hızlı başlangıç imkânı  
-- Projeyi profesyonel gösteren yol haritası ve lisans bilgisi  
-
-İster misin bu README’yi daha da ileri götürüp **projenin ekran görüntülerini ve diyagramlarını** da ekleyelim (mesela “📸 Ekran Görüntüleri” bölümü)?  
-Eğer uygulamanın screenshot’ları varsa README’ye çok şık durur!
+- Projeyi profesyonel gösteren yol haritası ve lisans bilgisi
