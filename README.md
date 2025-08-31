@@ -5,7 +5,7 @@ Proje, Flutter ile geliştirilmiş kullanıcı dostu bir arayüz ve **Python tab
 
 ---
 
-## ✨ Özellikler
+## ✨ Özellikler  
 - 🔹 **Çoklu Platform Desteği:** Android, iOS, Web ve masaüstü platformlarında çalışır.
 - 🤖 **AI Destekli Backend:** Python tabanlı `ai_model.py` ve `api_server.py` ile akıllı öneriler.
 - 📍 **Lokasyon Tabanlı İçerik:** Gezilecek yer önerileri, rota planlama (Gelecek özellikler).
